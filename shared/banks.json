@@ -80,12 +80,20 @@
                         "label": "Alsace (www.ibps.alsace.banquepopulaire.fr)"
                     },
                     {
+                        "value": "www.ibps.bpalc.banquepopulaire.fr",
+                        "label": "Alsace Lorraine Champagne (www.ibps.bpalc.banquepopulaire.fr)"
+                    },
+                    {
                         "value": "www.ibps.bpaca.banquepopulaire.fr",
                         "label": "Aquitaine Centre atlantique (www.ibps.bpaca.banquepopulaire.fr)"
                     },
                     {
                         "value": "www.ibps.atlantique.banquepopulaire.fr",
                         "label": "Atlantique (www.ibps.atlantique.banquepopulaire.fr)"
+                    },
+                    {
+                        "value": "www.ibps.bpaura.banquepopulaire.fr",
+                        "label": "Auvergne Rhône Alpes (www.ibps.bpaura.banquepopulaire.fr)"
                     },
                     {
                         "value": "www.ibps.banquedesavoie.banquepopulaire.fr",
@@ -126,6 +134,10 @@
                     {
                         "value": "www.ibps.nord.banquepopulaire.fr",
                         "label": "Nord (www.ibps.nord.banquepopulaire.fr)"
+                    },
+                    {
+                        "value": "www.ibps.mediterranee.banquepopulaire.fr",
+                        "label": "Méditerranée (www.ibps.mediterranee.banquepopulaire.fr)"
                     },
                     {
                         "value": "www.ibps.occitane.banquepopulaire.fr",
